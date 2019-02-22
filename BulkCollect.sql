@@ -33,6 +33,12 @@ FORALL <loop_variable>in<lower range> .. <higher range>
 <DML operations>;
 
 
+
+
+
+----------dxf
+
+
 In the above syntax, the given DML operation will be executed for the entire data that is present between lower and higher range.
 -----------------
 
